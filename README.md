@@ -1,8 +1,8 @@
-# WDS-Plugin-Boilerplate
+# Class Boilerplate
 
-A boilerplate for building plugins in wd_s.
+A boilerplate for building classes inside plugins.
 
-##Usage
-- Download the [zip](https://github.com/WebDevStudios/WDS-Plugin-Boilerplate/archive/master.zip)
-- Extract into `/wp-content/plugins/`
-- Rename to fit your project
+##Recommended Usage
+- Use the [NetTuts+ Fetch](https://github.com/weslly/Nettuts-Fetch) SublimeText extension
+- Add the following path to the Fetch: Manage list in the single files array: https://raw.githubusercontent.com/jazzsequence/WDS-Plugin-Boilerplate/master/class-name.php
+- When adding a new class to handle a part of your plugin/project, use Fetch: File to pull this boilerplate into the currently active file
