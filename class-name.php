@@ -27,8 +27,6 @@ if ( ! class_exists( 'Class_Name' ) ) {
 		 * Run our hooks
 		 */
 		public function do_hooks() {
-			if ( $this->meets_requirements() ) {
-			}
 		}
 
 	}
